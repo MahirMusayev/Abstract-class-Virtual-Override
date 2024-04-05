@@ -1,0 +1,4 @@
+C:\Users\Heydar\Desktop\Person class taski\Person class taski\obj\Debug\net6.0\Person class taski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Person class taski\Person class taski\obj\Debug\net6.0\Person class taski.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Person class taski\Person class taski\obj\Debug\net6.0\Person class taski.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Person class taski\Person class taski\obj\Debug\net6.0\Person class taski.csproj.CoreCompileInputs.cache

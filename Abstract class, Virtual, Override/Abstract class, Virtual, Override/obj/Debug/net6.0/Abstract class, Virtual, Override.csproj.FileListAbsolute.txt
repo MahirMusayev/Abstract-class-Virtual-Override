@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\bin\Debug\net6.0\Abstract class, Virtual, Override.exe
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\bin\Debug\net6.0\Abstract class, Virtual, Override.deps.json
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\bin\Debug\net6.0\Abstract class, Virtual, Override.runtimeconfig.json
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\bin\Debug\net6.0\Abstract class, Virtual, Override.dll
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\bin\Debug\net6.0\Abstract class, Virtual, Override.pdb
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.dll
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\refint\Abstract class, Virtual, Override.dll
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.pdb
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\Abstract class, Virtual, Override.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\Abstract class, Virtual, Override\Abstract class, Virtual, Override\obj\Debug\net6.0\ref\Abstract class, Virtual, Override.dll
